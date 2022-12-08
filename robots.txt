@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://u51239.onhh.ru//report.php?sitemap_1.xml
+Sitemap: http://u51239.onhh.ru//abby.php?sitemap_1.xml
